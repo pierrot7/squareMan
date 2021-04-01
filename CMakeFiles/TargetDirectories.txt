@@ -1,0 +1,7 @@
+/Users/rootsoo/code/etna/CPP/squareMan/CMakeFiles/install/local.dir
+/Users/rootsoo/code/etna/CPP/squareMan/CMakeFiles/install/strip.dir
+/Users/rootsoo/code/etna/CPP/squareMan/CMakeFiles/install.dir
+/Users/rootsoo/code/etna/CPP/squareMan/CMakeFiles/list_install_components.dir
+/Users/rootsoo/code/etna/CPP/squareMan/CMakeFiles/rebuild_cache.dir
+/Users/rootsoo/code/etna/CPP/squareMan/CMakeFiles/edit_cache.dir
+/Users/rootsoo/code/etna/CPP/squareMan/CMakeFiles/squareMan.dir

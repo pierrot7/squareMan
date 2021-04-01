@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/squareMan.dir/main.cpp.o CMakeFiles/squareMan.dir/Game.cpp.o CMakeFiles/squareMan.dir/Ball.cpp.o CMakeFiles/squareMan.dir/Player.cpp.o  -o squareMan  /usr/local/lib/libsfml-graphics.2.5.1.dylib /usr/local/lib/libsfml-window.2.5.1.dylib -stdc++11 /usr/local/lib/libsfml-system.2.5.1.dylib 
